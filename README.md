@@ -8,8 +8,8 @@ Especializado en el desarrollo de arquitecturas robustas y escalables. Mi enfoqu
 ## 🛠️ Tecnologías y Herramientas
 
 ### **Backend & Core**
-- **Java:** Spring Boot, Hibernate, Maven.
-- **PHP:** Laravel, Slim Framework, Patrón MVC.
+- **Java:** Spring Boot.
+- **PHP:** Laravel, Patrón MVC.
 - **Bases de Datos:** MySQL, MariaDB (Gestión de conexiones mediante Singleton).
 - **Frontend Essentials:** HTML5, CSS3, Tailwind CSS, Markdown.
 
@@ -24,8 +24,8 @@ Especializado en el desarrollo de arquitecturas robustas y escalables. Mi enfoqu
 
 | Proyecto | Descripción | Stack Técnico |
 | :--- | :--- | :--- |
-| **[Helpdesk](https://github.com/Pablosky2806/Helpdesk)** | **Gestor de Tickets:** Sistema integral para la gestión y resolución de incidencias técnicas. | PHP / MySQL |
-| **[Gestor de Tareas](https://github.com/Pablosky2806/gestor_de_tareas)** | Aplicación de productividad para la organización y seguimiento de flujos de trabajo. | Java / Spring Boot |
+| **[Helpdesk](https://github.com/Pablosky2806/Helpdesk)** | **Gestor de Tickets:** Sistema integral para la gestión y resolución de incidencias técnicas. | Laravel / MySQL |
+| **[Gestor de Tareas](https://github.com/Pablosky2806/gestor_de_tareas)** | Aplicación de productividad para la organización y seguimiento de flujos de trabajo. | HTML / CSS / JS |
 | **[Agente de Trabajo](https://github.com/Pablosky2806/agente_de_trabajo)** | **Simulador InfoJobs:** Plataforma de gestión de ofertas laborales y perfiles de candidatos. | PHP / Laravel |
 | **[San Valentín Fun](https://github.com/Pablosky2806/agente_de_trabajo)** | Proyecto creativo enfocado en lógica de interacción y validación dinámica. | HTML / CSS / JS |
 
@@ -42,13 +42,9 @@ Especializado en el desarrollo de arquitecturas robustas y escalables. Mi enfoqu
 ---
 
 ## 📫 Conectemos
-¿Interesado en colaborar en proyectos backend o hablar sobre nuevas tecnologías?
+¿Interesado en colaborar en proyectos conmigo?
 
 - 📧 **Email:** [pablocontreraslopez48@gmail.com](mailto:pablocontreraslopez48@gmail.com)
-- 🐦 **Twitter:** [@pablocl_28](https://twitter.com/pablocl_28)
 - 🔗 **GitHub:** [Pablosky2806](https://github.com/Pablosky2806)
 
 ---
-
-### 📊 Estadísticas de GitHub
-![Stats de Pablo](https://github-readme-stats.vercel.app/api?username=Pablosky2806&show_icons=true&theme=radical&hide_border=true)
