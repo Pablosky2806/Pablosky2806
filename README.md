@@ -1,38 +1,54 @@
-# 👋 ¡Hola! Soy Pablo
-Soy un desarrollador apasionado por HTML y CSS.
+# ¡Hola! Soy Pablo Contreras 👋
 
-## 🚀 Sobre mí  
-- 💻 Desarrollo en **Java**, **GitHub**.  
-- 📱 Aprendiendo **Base de datos** para crear aplicaciones móviles en Android Studio.  
-- 🌐 Experimentando con **Markdown** para sitios web rápidos y modernos.  
+### 🚀 Desarrollador Backend | Java (Spring) & PHP (Laravel)
+Especializado en el desarrollo de arquitecturas robustas y escalables. Mi enfoque principal es la construcción de soluciones eficientes en el lado del servidor, optimización de bases de datos y automatización de flujos de trabajo.
 
-## 📂 Mis Proyectos Destacados  
-Aquí algunos de mis proyectos más importantes:  
+---
 
-### 🔹 [Pokédex MVC](https://github.com/tu-usuario/pokedex-mvc)  
-Un sistema de Pokédex con patrón **Modelo-Vista-Controlador**, utilizando **PHP** y **MySQL** con una clase **Singleton** para la conexión a la base de datos.  
+## 🛠️ Tecnologías y Herramientas
 
-### 🔹 [API de Productos en PHP](https://github.com/tu-usuario/api-productos)  
-API REST para gestionar productos, desarrollada con **Slim Framework** y autenticación con JWT.  
+### **Backend & Core**
+- **Java:** Spring Boot, Hibernate, Maven.
+- **PHP:** Laravel, Slim Framework, Patrón MVC.
+- **Bases de Datos:** MySQL, MariaDB (Gestión de conexiones mediante Singleton).
+- **Frontend Essentials:** HTML5, CSS3, Tailwind CSS, Markdown.
 
-### 🔹 [Sitio Web con Astro](https://github.com/tu-usuario/sitio-astro)  
-Un blog rápido y ligero creado con **Astro**, **Markdown** y **Tailwind CSS**.  
+### **Entornos de Desarrollo (Next-Gen IDEs)**
+- **Inteligencia Artificial & Editores:** Windsurf, Cursor, Antigravity.
+- **Classic Tools:** Visual Studio Code, IntelliJ IDEA.
+- **Ecosistema Móvil:** Android Studio.
 
-## 🛠️ Tecnologías y Herramientas  
-- **Netbeans**
-- **VisualStudio**
-- **Intellig**
-- **Eclipse**
+---
 
+## 📂 Proyectos Destacados
 
-## 📫 Contacto  
-📧 Email: [pablocontreraslopez48@gmail.com](mailto:pablocontreraslopez48@gmail.com)  
-🐦 Twitter: [pablocl_28](https://twitter.com/tu_usuario)   
+| Proyecto | Descripción | Stack Técnico |
+| :--- | :--- | :--- |
+| **[Helpdesk](https://github.com/Pablosky2806/Helpdesk)** | **Gestor de Tickets:** Sistema integral para la gestión y resolución de incidencias técnicas. | PHP / MySQL |
+| **[Gestor de Tareas](https://github.com/Pablosky2806/gestor_de_tareas)** | Aplicación de productividad para la organización y seguimiento de flujos de trabajo. | Java / Spring Boot |
+| **[Agente de Trabajo](https://github.com/Pablosky2806/agente_de_trabajo)** | **Simulador InfoJobs:** Plataforma de gestión de ofertas laborales y perfiles de candidatos. | PHP / Laravel |
+| **[San Valentín Fun](https://github.com/Pablosky2806/agente_de_trabajo)** | Proyecto creativo enfocado en lógica de interacción y validación dinámica. | HTML / CSS / JS |
 
-## Actualmente
-Estudiando en IES Alfonso XI
+---
 
-## Cursos Formativos
+## 🎓 Formación Académica
 
-- Grado Medio Sistemas Microinformaticos y Redes
-- Grado Superior de Aplicaciones Web
+* **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)**
+    * **2º Año:** IES Francisco Ayala (Granada) - *En curso*
+    * **1º Año:** IES Alfonso XI (Alcalá la Real, Jaén)
+* **Técnico en Sistemas Microinformáticos y Redes (SMR)**
+    * IES Alfonso XI (Alcalá la Real, Jaén)
+
+---
+
+## 📫 Conectemos
+¿Interesado en colaborar en proyectos backend o hablar sobre nuevas tecnologías?
+
+- 📧 **Email:** [pablocontreraslopez48@gmail.com](mailto:pablocontreraslopez48@gmail.com)
+- 🐦 **Twitter:** [@pablocl_28](https://twitter.com/pablocl_28)
+- 🔗 **GitHub:** [Pablosky2806](https://github.com/Pablosky2806)
+
+---
+
+### 📊 Estadísticas de GitHub
+![Stats de Pablo](https://github-readme-stats.vercel.app/api?username=Pablosky2806&show_icons=true&theme=radical&hide_border=true)
