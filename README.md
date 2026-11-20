@@ -1,81 +1,86 @@
 <div align="center">
 
-# Hola, soy Pablo Contreras
+# Pablo Contreras López
 
-### Desarrollador backend junior
+### Desarrollador Backend Junior · Granada, España
 
-Java · Spring Boot · PHP · Laravel · SQL · Docker
+**Java · Spring Boot · PHP · Laravel · SQL · Docker**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ver%20mi%20portfolio-64e6b5?style=for-the-badge&logo=googlechrome&logoColor=10141d)](https://portfolio.pichahouse.es/)
-[![GitHub](https://img.shields.io/badge/GitHub-Pablosky2806-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pablosky2806)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Contreras-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-contreras-dev/)
-[![Email](https://img.shields.io/badge/Email-Escr%C3%ADbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo.contreras.dev@gmail.com)
+Desarrollo APIs y aplicaciones web con foco en backend, datos y automatización.
+Actualmente curso 2.º de DAM, después de completar DAW.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver%20portfolio-18181b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.pichahouse.es/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-contreras-dev/)
+[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo.contreras.dev@gmail.com)
 
 </div>
 
 ---
 
-## Sobre mí
+## Perfil
 
-Soy desarrollador backend junior de Granada. He completado **DAW** y actualmente curso **2.º de DAM**. Me interesa construir aplicaciones útiles, diseñar APIs y trabajar con bases de datos. También tengo experiencia desplegando y manteniendo servicios.
+Soy desarrollador backend junior con formación en desarrollo web y experiencia práctica con **PHP, Laravel, Java y Spring Boot**. He trabajado en aplicaciones con bases de datos SQL, gestión de usuarios y procesos en segundo plano. Mi experiencia previa en soporte informático aporta una base sólida de diagnóstico, resolución de incidencias y atención a usuarios.
 
-Mi experiencia en soporte informático me ha dado práctica diagnosticando problemas y explicando soluciones con claridad.
+Actualmente busco una oportunidad junior donde seguir creciendo y contribuir a proyectos reales.
 
 ## Tecnologías
 
 **Backend**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-**Datos, APIs y despliegue**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20APIs-34495E?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Bases de datos**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-## Proyectos destacados
+**Herramientas y conceptos**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) `REST` · `Queues` · `Eloquent ORM` · `JPA / Hibernate`
 
-### [MovieLog](https://github.com/Pablosky2806/MovieLog)
-API para organizar películas y series: estados, valoraciones, notas y estadísticas. Se integra con OMDb y se puede levantar con Docker Compose.
+## Proyectos seleccionados
 
-`Java` `Spring Boot` `MySQL` `Docker`
+### [MovieLog](https://github.com/Pablosky2806/MovieLog) · API de películas y series
+API para guardar títulos, gestionar estados y valoraciones, consultar estadísticas y obtener información desde OMDb. Incluye manejo de errores y arranque con Docker Compose.
 
-### [LibroLoop](https://github.com/Pablosky2806/libroloop)
-Aplicación de gestión de biblioteca con catálogo, préstamos, reservas, multas y permisos para socios y bibliotecarios.
+`Java 21` · `Spring Boot` · `MySQL` · `Docker`
 
-`Java` `Spring Boot` `PostgreSQL` `Spring Security`
+### [LibroLoop](https://github.com/Pablosky2806/libroloop) · Gestión de biblioteca
+Aplicación para administrar libros y socios, préstamos y reservas, con reglas de retrasos, multas y permisos diferenciados.
 
-### [Helpdesk](https://github.com/Pablosky2806/Helpdesk)
-Aplicación para registrar y seguir incidencias de soporte, con prioridades, estados e historial de cambios.
+`Java 21` · `Spring Boot` · `PostgreSQL` · `Spring Security`
 
-`PHP` `Laravel` `MySQL` `Blade`
+### [Helpdesk](https://github.com/Pablosky2806/Helpdesk) · Gestión de incidencias
+Aplicación para registrar y seguir incidencias con responsables, prioridad, estado e historial de cambios.
 
-### [Backend Agente](https://github.com/Pablosky2806/backend-agente)
-Herramienta que recoge ofertas de empleo, detecta duplicados y analiza las ofertas en segundo plano.
+`PHP` · `Laravel` · `MySQL` · `Blade`
 
-`Laravel` `Queues` `SQLite` `API`
+### [Backend Agente](https://github.com/Pablosky2806/backend-agente) · Automatización de ofertas
+Procesa ofertas de empleo en segundo plano, detecta duplicados, analiza palabras clave y envía notificaciones.
+
+`Laravel 11` · `Queues` · `SQLite` · `API`
 
 ## Experiencia
 
-- **Desarrollador Web en prácticas · GES Formación** — ene. 2026–abr. 2026. Desarrollo con PHP y Laravel, patrón MVC, Eloquent, MySQL, Blade y Git.
-- **Desarrollador Web en prácticas · TROFLEX** — may. 2025–sep. 2025. Funcionalidades backend con Laravel, MySQL y Eloquent ORM, trabajando con Git en equipo.
-- **Técnico de Soporte Informático · Insytec Telecomunicaciones** — sep. 2023–sep. 2024. Reparación de equipos, resolución de incidencias, redes locales y atención a usuarios.
+**Desarrollador Web en prácticas · GES Formación**  
+*Granada · ene. 2026 – abr. 2026*  
+Desarrollo de módulos web con Laravel y MVC; trabajo con Eloquent, MySQL, Blade y Git.
+
+**Desarrollador Web en prácticas · TROFLEX**  
+*Alcalá la Real · may. 2025 – sep. 2025*  
+Implementación de funcionalidades backend con Laravel, MySQL y Eloquent ORM, colaborando con Git en un entorno de equipo.
+
+**Técnico de Soporte Informático · Insytec Telecomunicaciones**  
+*Alcalá la Real · sep. 2023 – sep. 2024*  
+Reparación y mantenimiento de equipos, diagnóstico de incidencias, redes locales y soporte a usuarios.
 
 ## Formación
 
-- **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** — 2.º curso en curso · Mercedarias FP, Granada.
-- **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** — completado · IES Francisco Ayala, Granada.
+- **Desarrollo de Aplicaciones Multiplataforma (DAM)** — 2.º curso en curso · Mercedarias FP, Granada.
+- **Desarrollo de Aplicaciones Web (DAW)** — ciclo completado · IES Francisco Ayala, Granada.
 - **Sistemas Microinformáticos y Redes (SMR)** — IES Alfonso XI, Alcalá la Real.
 
 ---
 
 <div align="center">
 
-**¿Hablamos?** [Portfolio](https://portfolio.pichahouse.es/) · [LinkedIn](https://www.linkedin.com/in/pablo-contreras-dev/) · [Email](mailto:pablo.contreras.dev@gmail.com)
+**¿Hablamos?**  
+[Portfolio](https://portfolio.pichahouse.es/) · [LinkedIn](https://www.linkedin.com/in/pablo-contreras-dev/) · [pablo.contreras.dev@gmail.com](mailto:pablo.contreras.dev@gmail.com)
 
 </div>
