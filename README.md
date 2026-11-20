@@ -1,62 +1,81 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Pablo+Contreras+%F0%9F%91%8B;Backend+Developer;Java+%7C+Spring+Boot+%26+PHP+%7C+Laravel)](https://git.io/typing-svg)
+# Hola, soy Pablo Contreras
 
-[![Email](https://img.shields.io/badge/Email-pablocontreraslopez48%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablocontreraslopez48@gmail.com)
+### Desarrollador backend junior
+
+Java · Spring Boot · PHP · Laravel · SQL · Docker
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver%20mi%20portfolio-64e6b5?style=for-the-badge&logo=googlechrome&logoColor=10141d)](https://portfolio.pichahouse.es/)
 [![GitHub](https://img.shields.io/badge/GitHub-Pablosky2806-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pablosky2806)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Contreras-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-contreras-dev/)
+[![Email](https://img.shields.io/badge/Email-Escr%C3%ADbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo.contreras.dev@gmail.com)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
-Desarrollador **Backend** especializado en arquitecturas robustas y escalables. Me enfoco en el desarrollo del lado del servidor, optimización de bases de datos y automatización de flujos de trabajo.
+Soy desarrollador backend junior de Granada. He completado **DAW** y actualmente curso **2.º de DAM**. Me interesa construir aplicaciones útiles, diseñar APIs y trabajar con bases de datos. También tengo experiencia desplegando y manteniendo servicios.
 
-Actualmente cursando **2.º año de DAW** en IES Francisco Ayala (Granada) 🎓
+Mi experiencia en soporte informático me ha dado práctica diagnosticando problemas y explicando soluciones con claridad.
+
+## Tecnologías
+
+**Backend**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Datos, APIs y despliegue**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-34495E?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Proyectos destacados
+
+### [MovieLog](https://github.com/Pablosky2806/MovieLog)
+API para organizar películas y series: estados, valoraciones, notas y estadísticas. Se integra con OMDb y se puede levantar con Docker Compose.
+
+`Java` `Spring Boot` `MySQL` `Docker`
+
+### [LibroLoop](https://github.com/Pablosky2806/libroloop)
+Aplicación de gestión de biblioteca con catálogo, préstamos, reservas, multas y permisos para socios y bibliotecarios.
+
+`Java` `Spring Boot` `PostgreSQL` `Spring Security`
+
+### [Helpdesk](https://github.com/Pablosky2806/Helpdesk)
+Aplicación para registrar y seguir incidencias de soporte, con prioridades, estados e historial de cambios.
+
+`PHP` `Laravel` `MySQL` `Blade`
+
+### [Backend Agente](https://github.com/Pablosky2806/backend-agente)
+Herramienta que recoge ofertas de empleo, detecta duplicados y analiza las ofertas en segundo plano.
+
+`Laravel` `Queues` `SQLite` `API`
+
+## Experiencia
+
+- **Desarrollador Web en prácticas · GES Formación** — ene. 2026–abr. 2026. Desarrollo con PHP y Laravel, patrón MVC, Eloquent, MySQL, Blade y Git.
+- **Desarrollador Web en prácticas · TROFLEX** — may. 2025–sep. 2025. Funcionalidades backend con Laravel, MySQL y Eloquent ORM, trabajando con Git en equipo.
+- **Técnico de Soporte Informático · Insytec Telecomunicaciones** — sep. 2023–sep. 2024. Reparación de equipos, resolución de incidencias, redes locales y atención a usuarios.
+
+## Formación
+
+- **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** — 2.º curso en curso · Mercedarias FP, Granada.
+- **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** — completado · IES Francisco Ayala, Granada.
+- **Sistemas Microinformáticos y Redes (SMR)** — IES Alfonso XI, Alcalá la Real.
 
 ---
-
-## 🛠️ Stack Tecnológico
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## 📊 Estadísticas
 
 <div align="center">
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=Pablosky2806&show_icons=true&theme=tokyonight&hide_border=true)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablosky2806&layout=compact&theme=tokyonight&hide_border=true)
+**¿Hablamos?** [Portfolio](https://portfolio.pichahouse.es/) · [LinkedIn](https://www.linkedin.com/in/pablo-contreras-dev/) · [Email](mailto:pablo.contreras.dev@gmail.com)
 
 </div>
-
----
-
-## 📂 Proyectos Destacados
-
-| Proyecto | Descripción | Stack |
-| :--- | :--- | :--- |
-| [**Helpdesk**](https://github.com/Pablosky2806/Helpdesk) | Gestor de tickets para incidencias técnicas | Laravel / MySQL |
-| [**Gestor de Tareas**](https://github.com/Pablosky2806/gestor_de_tareas) | App de productividad y seguimiento de tareas | HTML / CSS / JS |
-| [**Agente de Trabajo**](https://github.com/Pablosky2806/agente_de_trabajo) | Simulador de plataforma de ofertas laborales | PHP / Laravel |
-
----
-
-## 🎓 Formación
-
-| Título | Centro | Año |
-| :--- | :--- | :--- |
-| 🎓 Técnico Superior DAW *(en curso)* | IES Francisco Ayala — Granada | 2024–2025 |
-| 📚 Técnico Superior DAW *(1.er año)* | IES Alfonso XI — Alcalá la Real | 2023–2024 |
-| 🖥️ Técnico SMR | IES Alfonso XI — Alcalá la Real | 2021–2023 |
