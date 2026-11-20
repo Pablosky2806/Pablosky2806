@@ -1,82 +1,54 @@
-<div align="center">
+# Pablo Contreras López
 
-<img src="./profile-assets/backend-banner.gif" alt="Pablo Contreras López, desarrollador backend junior en Granada. Java, Spring Boot, PHP, Laravel y SQL." width="100%">
+**Desarrollador backend junior** · Granada, España
 
-### Pablo Contreras López
+Java y Spring Boot · PHP y Laravel · SQL · Docker
 
-**Desarrollador Backend Junior · Granada, España**  
-Java · Spring Boot · PHP · Laravel · SQL · Docker
-
-[Portfolio](https://portfolio.pichahouse.es/) · [LinkedIn](https://www.linkedin.com/in/pablo-contreras-dev/) · [Email](mailto:pablo.contreras.dev@gmail.com)
-
-</div>
+[Portfolio](https://portfolio.pichahouse.es/)　·　[LinkedIn](https://www.linkedin.com/in/pablo-contreras-dev/)　·　[Email](mailto:pablo.contreras.dev@gmail.com)
 
 ---
 
-## Sobre mí
+Desarrollo aplicaciones backend y APIs. En mis prácticas trabajé con Laravel, MVC, Eloquent, MySQL y Git; en mis proyectos he creado servicios con Spring Boot, PostgreSQL, control de acceso y Docker. Mi experiencia anterior en soporte técnico me aporta práctica resolviendo incidencias y trabajando con usuarios.
 
-Desarrollo aplicaciones con **Java/Spring Boot** y **PHP/Laravel**. En mis prácticas trabajé con MVC, ORM, MySQL y Git; en proyectos propios he aplicado APIs, PostgreSQL, control de acceso y Docker. Mi experiencia en soporte me dio una base práctica de diagnóstico y resolución de incidencias.
+Actualmente curso **2.º de DAM**, tras completar **DAW**, y busco una oportunidad junior en desarrollo backend.
 
-Curso **2.º de DAM**, tras completar **DAW**, y busco una oportunidad junior en desarrollo backend.
+## Proyectos
+
+| Proyecto | Qué construí | Tecnologías |
+|:--|:--|:--|
+| **[MovieLog](https://github.com/Pablosky2806/MovieLog)** | API para organizar películas y series, consultar información de OMDb y obtener estadísticas. Incluye manejo de errores y despliegue con Docker Compose. | Java 21 · Spring Boot · MySQL · Docker |
+| **[LibroLoop](https://github.com/Pablosky2806/libroloop)** | Aplicación de biblioteca con catálogo, préstamos, reservas, multas y permisos para socios y bibliotecarios. | Java 21 · Spring Boot · PostgreSQL · Spring Security |
+| **[Helpdesk](https://github.com/Pablosky2806/Helpdesk)** | Gestión de incidencias con responsables, prioridad, estado e historial de cambios. | PHP · Laravel · MySQL · Blade |
+| **[Backend Agente](https://github.com/Pablosky2806/backend-agente)** | Procesamiento de ofertas en segundo plano, detección de duplicados, análisis de palabras clave y notificaciones. | Laravel 11 · Queues · SQLite |
 
 ## Tecnologías
 
-**Backend**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-**Bases de datos**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Herramientas y conceptos**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) `REST` · `Queues` · `Eloquent ORM` · `JPA / Hibernate`
-
-## Proyectos seleccionados
-
-### [MovieLog](https://github.com/Pablosky2806/MovieLog) · API de películas y series
-API para guardar títulos, gestionar estados y valoraciones, consultar estadísticas y obtener información desde OMDb. Incluye manejo de errores y arranque con Docker Compose.
-
-`Java 21` · `Spring Boot` · `MySQL` · `Docker`
-
-### [LibroLoop](https://github.com/Pablosky2806/libroloop) · Gestión de biblioteca
-Aplicación para administrar libros y socios, préstamos y reservas, con reglas de retrasos, multas y permisos diferenciados.
-
-`Java 21` · `Spring Boot` · `PostgreSQL` · `Spring Security`
-
-### [Helpdesk](https://github.com/Pablosky2806/Helpdesk) · Gestión de incidencias
-Aplicación para registrar y seguir incidencias con responsables, prioridad, estado e historial de cambios.
-
-`PHP` · `Laravel` · `MySQL` · `Blade`
-
-### [Backend Agente](https://github.com/Pablosky2806/backend-agente) · Automatización de ofertas
-Procesa ofertas de empleo en segundo plano, detecta duplicados, analiza palabras clave y envía notificaciones.
-
-`Laravel 11` · `Queues` · `SQLite` · `API`
+| Área | Stack |
+|:--|:--|
+| **Backend** | Java 21, Spring Boot, PHP, Laravel |
+| **Persistencia** | PostgreSQL, MySQL, SQLite, Eloquent ORM, JPA / Hibernate |
+| **Desarrollo y despliegue** | APIs REST, Docker, Git, procesamiento en colas |
 
 ## Experiencia
 
 **Desarrollador Web en prácticas · GES Formación**  
-*Granada · ene. 2026 – abr. 2026*  
-Desarrollo de módulos web con Laravel y MVC; trabajo con Eloquent, MySQL, Blade y Git.
+*Granada · enero–abril de 2026*  
+Desarrollo de módulos con Laravel y MVC; vistas Blade, rutas, Eloquent, MySQL y Git.
 
 **Desarrollador Web en prácticas · TROFLEX**  
-*Alcalá la Real · may. 2025 – sep. 2025*  
-Implementación de funcionalidades backend con Laravel, MySQL y Eloquent ORM, colaborando con Git en un entorno de equipo.
+*Alcalá la Real · mayo–septiembre de 2025*  
+Implementación backend con Laravel, MySQL y Eloquent ORM; colaboración en equipo y control de versiones con Git.
 
 **Técnico de Soporte Informático · Insytec Telecomunicaciones**  
-*Alcalá la Real · sep. 2023 – sep. 2024*  
-Reparación y mantenimiento de equipos, diagnóstico de incidencias, redes locales y soporte a usuarios.
+*Alcalá la Real · septiembre de 2023–septiembre de 2024*  
+Mantenimiento y reparación de equipos, diagnóstico de averías, redes locales y asistencia a usuarios.
 
 ## Formación
 
-- **Desarrollo de Aplicaciones Multiplataforma (DAM)** — 2.º curso en curso · Mercedarias FP, Granada.
-- **Desarrollo de Aplicaciones Web (DAW)** — ciclo completado · IES Francisco Ayala, Granada.
+- **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** · 2.º curso en curso — Mercedarias FP, Granada.
+- **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** · ciclo completado — IES Francisco Ayala, Granada.
 - **Sistemas Microinformáticos y Redes (SMR)** — IES Alfonso XI, Alcalá la Real.
 
 ---
 
-<div align="center">
-
-**¿Hablamos?**  
-[Portfolio](https://portfolio.pichahouse.es/) · [LinkedIn](https://www.linkedin.com/in/pablo-contreras-dev/) · [pablo.contreras.dev@gmail.com](mailto:pablo.contreras.dev@gmail.com)
-
-</div>
+¿Tienes una oportunidad junior o un proyecto interesante? [Hablemos por LinkedIn](https://www.linkedin.com/in/pablo-contreras-dev/) o [por email](mailto:pablo.contreras.dev@gmail.com).
