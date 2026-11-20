@@ -1,13 +1,10 @@
 <div align="center">
 
-# Pablo Contreras López
+<img src="./profile-assets/backend-banner.gif" alt="Pablo Contreras López, desarrollador backend junior en Granada. Java, Spring Boot, PHP, Laravel y SQL." width="100%">
 
 ### Desarrollador Backend Junior · Granada, España
 
-**Java · Spring Boot · PHP · Laravel · SQL · Docker**
-
 Desarrollo APIs y aplicaciones web con foco en backend, datos y automatización.
-Actualmente curso 2.º de DAM, después de completar DAW.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ver%20portfolio-18181b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.pichahouse.es/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-contreras-dev/)
@@ -17,11 +14,11 @@ Actualmente curso 2.º de DAM, después de completar DAW.
 
 ---
 
-## Perfil
+## Sobre mí
 
 Soy desarrollador backend junior con formación en desarrollo web y experiencia práctica con **PHP, Laravel, Java y Spring Boot**. He trabajado en aplicaciones con bases de datos SQL, gestión de usuarios y procesos en segundo plano. Mi experiencia previa en soporte informático aporta una base sólida de diagnóstico, resolución de incidencias y atención a usuarios.
 
-Actualmente busco una oportunidad junior donde seguir creciendo y contribuir a proyectos reales.
+Actualmente curso 2.º de DAM, después de completar DAW, y busco una oportunidad junior donde seguir creciendo y contribuir a proyectos reales.
 
 ## Tecnologías
 
