@@ -3,9 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25&height=220&section=header&text=Pablo%20Contreras&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desarrollador%20Backend%20Junior&descSize=22&descAlignY=58" width="100%" alt="header"/>
 
 <h3>☕ Java + Spring Boot &nbsp;·&nbsp; 🐘 PHP + Laravel &nbsp;·&nbsp; 🗄️ MySQL / PostgreSQL &nbsp;·&nbsp; 🐳 Docker</h3>
-
-<p><i>Buscando mi primera oportunidad como desarrollador backend junior 🚀</i></p>
-
 <br/>
 
 ![Granada](https://img.shields.io/badge/📍_Granada,_España-1f6feb?style=for-the-badge)
