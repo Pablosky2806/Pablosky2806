@@ -2,13 +2,12 @@
 
 <img src="./profile-assets/backend-banner.gif" alt="Pablo Contreras López, desarrollador backend junior en Granada. Java, Spring Boot, PHP, Laravel y SQL." width="100%">
 
-### Desarrollador Backend Junior · Granada, España
+### Pablo Contreras López
 
-Desarrollo APIs y aplicaciones web con foco en backend, datos y automatización.
+**Desarrollador Backend Junior · Granada, España**  
+Java · Spring Boot · PHP · Laravel · SQL · Docker
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ver%20portfolio-18181b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.pichahouse.es/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-contreras-dev/)
-[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo.contreras.dev@gmail.com)
+[Portfolio](https://portfolio.pichahouse.es/) · [LinkedIn](https://www.linkedin.com/in/pablo-contreras-dev/) · [Email](mailto:pablo.contreras.dev@gmail.com)
 
 </div>
 
@@ -16,9 +15,9 @@ Desarrollo APIs y aplicaciones web con foco en backend, datos y automatización.
 
 ## Sobre mí
 
-Soy desarrollador backend junior con formación en desarrollo web y experiencia práctica con **PHP, Laravel, Java y Spring Boot**. He trabajado en aplicaciones con bases de datos SQL, gestión de usuarios y procesos en segundo plano. Mi experiencia previa en soporte informático aporta una base sólida de diagnóstico, resolución de incidencias y atención a usuarios.
+Desarrollo aplicaciones con **Java/Spring Boot** y **PHP/Laravel**. En mis prácticas trabajé con MVC, ORM, MySQL y Git; en proyectos propios he aplicado APIs, PostgreSQL, control de acceso y Docker. Mi experiencia en soporte me dio una base práctica de diagnóstico y resolución de incidencias.
 
-Actualmente curso 2.º de DAM, después de completar DAW, y busco una oportunidad junior donde seguir creciendo y contribuir a proyectos reales.
+Curso **2.º de DAM**, tras completar **DAW**, y busco una oportunidad junior en desarrollo backend.
 
 ## Tecnologías
 
